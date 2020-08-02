@@ -18,5 +18,5 @@ Demonstration:
 ```bash
 cd src
 g++ Main.cpp Boid.cpp PosVec.cpp -o ../app -lglut -lGLU -lGL
-./app
+../app
 ```
